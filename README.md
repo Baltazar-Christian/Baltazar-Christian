@@ -30,7 +30,9 @@
 </p>
 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Baltazar-Christian)  
 *NOTE: Top languages does not indicate my skill level or something like that. But gitHub merics of laguages publish most*
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baltazar-Christian)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -38,7 +40,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/Baltazar-Christian)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Baltazar-Christian)  
 
 
 
