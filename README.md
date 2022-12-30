@@ -1,32 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jasper Rupia Katunz</h1>
-<h3 align="center">A passionate full-stack developer from Tanzania</h3>
- 
- 
-
-![](https://pbs.twimg.com/profile_banners/1515338077690118146/1650124789/600x200)
-
-
- 
-### This is how to reach me
-- 📫 **jasperrupia@gmail.com** 
-- 📫 **jasperrupia@outlook.com** 
--   <a href="tel:+255656631106"> +255 656 631 106 </a>
-
-
-### About me
-❤️ I love writing Python, and building fun experiments on type-level.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/katunzj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katunzj" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/official_katunz_jr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_katunz_jr" height="30" width="40" />
-  </a>
-</p>
-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasperrupia&show_icons=true)  
