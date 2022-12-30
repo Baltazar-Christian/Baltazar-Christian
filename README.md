@@ -4,6 +4,11 @@
 
 
 
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Baltazar-Christian)  
+
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
@@ -28,9 +33,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Baltazar-Christian)  
 *NOTE: Top languages does not indicate my skill level or something like that. But gitHub merics of laguages publish most*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baltazar-Christian)](https://github.com/anuraghazra/github-readme-stats)
