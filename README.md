@@ -37,7 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baltazar-Christian)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<script src="https://gist.github.com/Baltazar-Christian/7891d5c0043dba28eea0690ea96c120c.js"></script>
 
 
 ![Profile views](https://gpvc.arturio.dev/Baltazar-Christian)  
