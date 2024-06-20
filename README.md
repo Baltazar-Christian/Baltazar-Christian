@@ -1,6 +1,6 @@
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Baltazar-Christian&show_icons=true)  
+
 
 
 
